@@ -1,0 +1,17 @@
+{
+  "name": "genpark-geohash-spatial-quadtree-encoder-skill",
+  "version": "1.0.0",
+  "description": "Base32 Geohash and spatial quadtree hierarchical space-filling z-order curve encoder for geographical partitioning and radius querying.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "geohash",
+    "quadtree",
+    "z-order-curve",
+    "geospatial",
+    "spatial-partitioning"
+  ],
+  "dependencies": []
+}
